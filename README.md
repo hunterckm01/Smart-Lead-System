@@ -1,4 +1,4 @@
-<img width="1919" height="962" alt="Screenshot 2025-12-13 005503" src="https://github.com/user-attachments/assets/4ff7dd1f-4b65-4836-99bf-8055d1a5bf90" />### Tech Stack
+### Tech Stack
 * **Frontend:** React, Vite, React Router DOM, Tailwind CSS
 * **Backend:** Node.js, Express, Dotenv, cors, mongoose, nodemon, node-cron
 
