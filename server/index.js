@@ -8,7 +8,7 @@ const app = express();
 
 
 //GETTING PORT ADDRESS
-const PORT = process.env.BACKEND_PORT;
+const PORT = process.env.PORT;
 //CONNECTING DATABASE
 connectDB();
 
